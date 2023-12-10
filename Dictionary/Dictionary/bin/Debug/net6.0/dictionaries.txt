@@ -1,0 +1,6 @@
+﻿engrus: apple: яблоко, яблочный
+engrus: house: дом, жилище
+engrus: cat: кошка, кот
+engrus: computer: компьютер
+engrus: programming: программирование
+engrus: Food: еда, жрачка, хавчик
